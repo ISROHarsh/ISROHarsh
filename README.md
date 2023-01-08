@@ -1,4 +1,4 @@
-<img align="left" height="176" src="https://cdn.discordapp.com/attachments/1024305924367712268/1037540362677403749/ce9f9a1a98431213f9fbff2361e723f5.jpg" style="border-radius: 6px"/>
+<img align="left" height="176" src="https://in.pinterest.com/pin/780248704214701588/" style="border-radius: 6px"/>
 
 ```diff
 ~/ neofetch
