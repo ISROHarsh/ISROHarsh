@@ -1,4 +1,4 @@
-<img align="left" height="176" src="https://i.pinimg.com/originals/51/f7/be/51f7bef796145f88d561caebb930298d.gif" style="border-radius: 6px"/>
+<img src="https://i.pinimg.com/originals/51/f7/be/51f7bef796145f88d561caebb930298d.gif" align="left" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="250" style="border-radius: 6px">
 
 ```diff
 ~/ neofetch
