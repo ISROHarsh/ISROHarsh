@@ -1,4 +1,4 @@
-<img align="left" height="176" src="e8ff91239bc5d95a02386c156a83659b.jpg" style="border-radius: 6px"/>
+<img align="left" height="176" src="https://i.pinimg.com/564x/26/67/5a/26675a5122ad621b3de49f7e84a4a0f9.jpg" style="border-radius: 6px"/>
 
 ```diff
 ~/ neofetch
