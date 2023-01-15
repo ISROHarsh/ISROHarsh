@@ -1,28 +1,25 @@
-<img align="left" height="186" src="https://i.pinimg.com/564x/f7/ef/19/f7ef198581017571261c03efc50d23d2.jpg" style="border-radius: 6px"/>
+![Header](https://raw.githubusercontent.com/Gowixx/Gowixx/master/header.png)
 
-```diff
-~/ neofetch
-
-@@novice programmer@@
-+ 16, he/him 
-! procrastinator, sleep expert and cosmophile
-# 📥 gamoaster@gmail.com
-
-```
+<h1 align="center">Harsh Verma</h1>
+<p align="center">Novice programmer, procrastinator and cosmophile.</p>
+<a href="https://github.com/ISROHarsh">
+  <p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ISROHarsh" alt="Profile Views"/>
+  </p>
+</a>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,rust,php,cpp,nodejs,sass,redux" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=linux,vscode,python,html,js,php,go" />
+</p>
+<br> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ISROHarsh&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true&count_private=true"/>
 </p>
 <br>
-
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ISROHarsh&show_icons=true&theme=midnight-purple&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ISROHarsh&theme=midnight-purple&hide_border=true" />
+<p align="center">
+  <a href="https://discordapp.com/users/737912201981067314">
+  <img src="https://lanyard-profile-readme.vercel.app/api/737912201981067314?hideTimestamp=true&hideBadges=true"/>
   </a>
 </p>
 
-<p align="center">
-	<img src="https://lanyard-profile-readme.vercel.app/api/737912201981067314?hideTimestamp=true&hideBadges=true"/>
-</p>
+![Footer](https://raw.githubusercontent.com/Gowixx/Gowixx/master/footer.png)
