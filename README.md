@@ -9,7 +9,7 @@
 </a>
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,arduino,python,js,mysql,git,qt" />
+   <img src="https://skillicons.dev/icons?i=linux,vscode,arduino,python,js,mysql,git,qt" />
 </p>
 <br> 
 <p align="center">
