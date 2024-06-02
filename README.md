@@ -22,5 +22,3 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/737912201981067314?hideTimestamp=true&hideBadges=true"/>
   </a>
 </p>
-
-![Footer](https://raw.githubusercontent.com/Gowixx/Gowixx/master/footer.png)
