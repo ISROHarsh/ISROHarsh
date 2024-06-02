@@ -23,9 +23,4 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31wsvr3v6z66caelp77u4xrjut3a0gh&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31wsvr3v6z66caelp77u4xrjut3a&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true"/>
-</p>
-
 ![Footer](https://raw.githubusercontent.com/Gowixx/Gowixx/master/footer.png)
